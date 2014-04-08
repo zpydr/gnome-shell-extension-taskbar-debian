@@ -3,7 +3,7 @@ Upstream-Name: gnome-shell-extension-taskbar
 Source: https://extensions.gnome.org/extension/584/taskbar/
 
 Files: *
-Copyright: 2013 zpydr <zpydr@linuxwaves.com>
+Copyright: 2014 zpydr <zpydr@linuxwaves.com>
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
