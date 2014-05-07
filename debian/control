@@ -1,7 +1,7 @@
 Source: gnome-shell-extension-taskbar
 Section: gnome
 Priority: extra
-Maintainer: zpydr <zpydr@linuxwaves.com>
+Maintainer: zpydr <zpydr@openmailbox.org>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 Homepage: https://extensions.gnome.org/extension/584/taskbar/
