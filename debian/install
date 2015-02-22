@@ -5,7 +5,6 @@ locale usr/share/gnome-shell/extensions/TaskBar@zpydr
 metadata.json usr/share/gnome-shell/extensions/TaskBar@zpydr
 README.md usr/share/gnome-shell/extensions/TaskBar@zpydr
 README usr/share/gnome-shell/extensions/TaskBar@zpydr
-schemas/gschemas.compiled usr/share/glib-2.0/schemas
-schemas/org.gnome.shell.extensions.TaskBar.gschema.xml usr/share/glib-2.0/schemas
+schemas usr/share/gnome-shell/extensions/TaskBar@zpydr
 stylesheet.css usr/share/gnome-shell/extensions/TaskBar@zpydr
-Taskbar.pot usr/share/gnome-shell/extensions/TaskBar@zpydr
+TaskBar.pot usr/share/gnome-shell/extensions/TaskBar@zpydr
