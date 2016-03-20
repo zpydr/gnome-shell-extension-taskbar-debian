@@ -10,8 +10,8 @@ Homepage: https://extensions.gnome.org/extension/584/taskbar/
 
 Package: gnome-shell-extension-taskbar
 Architecture: all
-Depends: gnome-shell (>= 3.8)
-Description: GNOME Shell Extension TaskBar for GNOME 3.8 - 3.18
+Depends: gnome-shell (>= 3.10)
+Description: GNOME Shell Extension TaskBar for GNOME 3.10 - 3.18
  TaskBar displays icons of running applications on the top panel or 
  alternatively on a new bottom panel.
  Activate, minimize or close tasks with a simple click. 
