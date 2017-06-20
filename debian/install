@@ -6,5 +6,6 @@ metadata.json usr/share/gnome-shell/extensions/TaskBar@zpydr
 README.md usr/share/gnome-shell/extensions/TaskBar@zpydr
 README usr/share/gnome-shell/extensions/TaskBar@zpydr
 schemas usr/share/gnome-shell/extensions/TaskBar@zpydr
+scripts usr/share/gnome-shell/extensions/TaskBar@zpydr
 stylesheet.css usr/share/gnome-shell/extensions/TaskBar@zpydr
 TaskBar.pot usr/share/gnome-shell/extensions/TaskBar@zpydr
